@@ -1,6 +1,6 @@
 # plunger
 
-Plunger is a python linter, with bult-in [Luigi](https://github.com/spotify/luigi) support.
+Plunger is a python linter, with built-in [Luigi](https://github.com/spotify/luigi) support.
 
 ## Rationale
 
