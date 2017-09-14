@@ -3,7 +3,7 @@ version:             0.1.0.0
 -- synopsis:
 -- description:
 homepage:            https://github.com/adroll/plunger
-license:             BSD3
+license:             MIT
 license-file:        LICENSE
 author:              AdRoll Inc
 maintainer:          oleg.avdeev@adroll.com
